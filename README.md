@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a friend's website and business projects<br>🌱 I’m currently learning AWS and DevOps tooling
+🔭 I’m currently working on various business projects as well as a friend's website<br>🌱 I’m currently learning AWS and DevOps tooling
 
 
 # 💻 Tech Stack:
